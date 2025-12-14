@@ -38,12 +38,18 @@ class _LoginScreenState extends State<LoginScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            const Icon(Icons.account_balance_wallet, size: 80, color: Colors.blue),
+            Image.asset('assets/images/appLogo.png', width: 80, height: 80),
             const SizedBox(height: 16),
             const Text(
-              "Catatan Keuangan",
+              "JajanMulu",
               textAlign: TextAlign.center,
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(height: 8),
+            Text(
+              "Catatan keuangan harian untukmu yang JajanMulu",
+              textAlign: TextAlign.center,
+              style: TextStyle(fontSize: 14, color: Colors.grey, fontWeight: FontWeight.normal)
             ),
             const SizedBox(height: 40),
             
