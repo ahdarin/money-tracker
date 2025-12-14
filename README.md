@@ -52,18 +52,6 @@ Aplikasi ini dikembangkan dengan fitur-fitur lengkap:
 
 ---
 
-## 📱 Tampilan Aplikasi
-
-| Dashboard (Light) | Dashboard (Dark) | Kelola Rekening |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/dashboard_light.png" width="200" alt="Dashboard Light"> | <img src="assets/screenshots/dashboard_dark.png" width="200" alt="Dashboard Dark"> | <img src="assets/screenshots/accounts.png" width="200" alt="Accounts"> |
-
-| Input Transaksi | Detail Mutasi | Pilihan Kategori |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/input.png" width="200" alt="Input"> | <img src="assets/screenshots/detail.png" width="200" alt="Detail"> | <img src="assets/screenshots/category.png" width="200" alt="Category"> |
-
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 - **Framework:** [Flutter](https://flutter.dev)
