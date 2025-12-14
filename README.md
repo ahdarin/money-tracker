@@ -115,7 +115,6 @@ Proyek ini didistribusikan di bawah **MIT License**. Silakan lihat file [LICENSE
 <br>
 
 <div align="center">
-  <p>Dibuat dengan ❤️</p>
-  <p>By ahdarin</p>
-  <p>2025</p>
+  <p>Made with ❤️ by ahdarin</p>
+  <p>December, 2025</p>
 </div>
